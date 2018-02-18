@@ -1,0 +1,13 @@
+p {
+    margin: 0;
+    padding: 0;
+}
+footer {
+    text-align: center;
+}
+.none {
+    display: none;
+}
+#p-size {
+    width: 70px;
+}
